@@ -25,7 +25,7 @@ export default function App() {
         {renderView()}
       </main>
       <footer className="border-t border-gray-800/60 py-8 text-center text-gray-600 text-sm">
-        <p>Gorkreal — Digital Image Processing Project &copy; {new Date().getFullYear()}</p>
+        <p>Gorkreal — Digital Image Processing  &copy; {new Date().getFullYear()}</p>
         <p className="text-xs mt-1 text-gray-700">CNN + Transfer Learning on FaceForensics++</p>
       </footer>
     </div>
