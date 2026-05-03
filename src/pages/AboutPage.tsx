@@ -7,7 +7,7 @@ export default function AboutPage() {
         {/* Header */}
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-black text-white mb-4">
-            About <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">DeepGuard</span>
+            About <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">Gorkreal</span>
           </h1>
           <p className="text-gray-400 text-xl max-w-2xl mx-auto leading-relaxed">
             A research-grade deepfake detection system built with modern deep learning techniques
