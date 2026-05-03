@@ -30,7 +30,7 @@ export default function Navbar({ currentView, onNavigate }: NavbarProps) {
               <Shield size={18} className="text-white" />
             </div>
             <span className="text-white font-bold text-lg tracking-tight">
-              Deep<span className="text-cyan-400">Guard</span>
+              Gork<span className="text-cyan-400">Real</span>
             </span>
           </button>
 
